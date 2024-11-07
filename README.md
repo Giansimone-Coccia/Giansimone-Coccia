@@ -53,7 +53,6 @@ Benvenuto nel mio profilo GitHub! 👨‍💻👩‍💻
 
 ## 📊 Statistiche GitHub
 ![Statistiche GitHub di Giansimone](https://github-readme-stats.vercel.app/api?username=Giansimone-Coccia&show_icons=true&theme=gruvbox)
-![Linguaggi Principali](https://github-readme-stats.vercel.app/api/top-langs/?username=Giansimone-Coccia&layout=compact&theme=dracula)
 
 ## 📫 Contatti
 - LinkedIn: [giansimone-coccia](https://www.linkedin.com/in/giansimone-coccia-9a4342247?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
