@@ -56,5 +56,5 @@ Benvenuto nel mio profilo GitHub! 👨‍💻👩‍💻
 ![Linguaggi Principali](https://github-readme-stats.vercel.app/api/top-langs/?username=Giansimone-Coccia&layout=compact&theme=radical)
 
 ## 📫 Contatti
-- LinkedIn: [linkedin.com/in/tuonome](https://linkedin.com/in/giansimone-coccia)
-- Email: [tuoindirizzo@email.com](mailto:giansimone.coccia01@gmail.com)
+- LinkedIn: [giansimone-coccia](https://www.linkedin.com/in/giansimone-coccia-9a4342247?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- Email: [giansimone.coccia01@gmail.com](mailto:giansimone.coccia01@gmail.com)
