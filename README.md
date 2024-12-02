@@ -51,9 +51,6 @@ Benvenuto nel mio profilo GitHub! 👨‍💻👩‍💻
 - [**Progetto 8 Gestore Studio Legale**](https://github.com/Giansimone-Coccia/GestoreStudioLegale.git): Realizzazione di un software gestionale in Python per uno studio legale.
 - [**Progetto 9 OpenWeather**](https://github.com/Giansimone-Coccia/Progetto-OOP.git): Applicativo RESTful Web Service in Java che implementa un servizio meteo attraverso chiamate API OpenWeather.
 
-## 📊 Statistiche GitHub
-![Statistiche GitHub di Giansimone](https://github-readme-stats.vercel.app/api?username=Giansimone-Coccia&show_icons=true&theme=gruvbox)
-
 ## 📫 Contatti
 - LinkedIn: [giansimone-coccia](https://www.linkedin.com/in/giansimone-coccia-9a4342247?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - Email: [giansimone.coccia01@gmail.com](mailto:giansimone.coccia01@gmail.com)
