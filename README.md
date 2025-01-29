@@ -1,14 +1,14 @@
-# Ciao! 👋 Sono Giansimone
+# Hi! 👋 I'm Giansimone
 
-Benvenuto nel mio profilo GitHub! 👨‍💻👩‍💻
+Welcome to my GitHub profile! 👨‍💻👩‍💻
 
-## 👨‍💻 Su di me
-- 🎓 Laureato in Ingegneria Informatica e dell'Automazione (L8).
-- 📚 Attualmente sono all'ultimo anno del corso di Laurea Magistrale in Ingegneria Informatica e dell'Automazione presso l'Università Politecnica delle Marche
+## 👨‍💻 About me
+- 🎓 Graduated in Computer Engineering and Automation (L8).
+- 📚 I am currently in the final year of a Master's degree course in Computer and Automation Engineering at the Università Politecnica delle Marche
 
-## 🚀 Competenze
+## 🚀 Skills
 
-- **Linguaggi di Programmazione**:  
+- **Programming language**:  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -18,7 +18,7 @@ Benvenuto nel mio profilo GitHub! 👨‍💻👩‍💻
   ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-- **Sviluppo Web e Mobile**:  
+- **Web and Mobile Development**:  
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -40,17 +40,19 @@ Benvenuto nel mio profilo GitHub! 👨‍💻👩‍💻
   ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
 
-## 🌟 Progetti in evidenza
-- [**Progetto 1 Sviluppo Back End**](https://github.com/Giansimone-Coccia/Progetto-PA.git): Il progetto consiste nella realizzazione di un sistema backend per la gestione delle inferenze su immagini, video e file zip, utilizzando modelli di Deep Learning pre-addestrati per l'armocromia, utilizzando strumenti com Typescript, Node.js e Docker.
-- [**Progetto 2 Armocromia**](https://github.com/Giansimone-Coccia/CV-DL-Armocromia.git): Questo repository contiene script e notebook utilizzati per l'analisi dell'armocromia attraverso l'elaborazione di immagini utilizzando Python.
-- [**Progetto 3 CareChain**](https://github.com/Giansimone-Coccia/SoftwareSecurity-Blockchain.git): CareChain è un software che facilita la gestione e la condivisione dei dati tra pazienti, medici e operatori sanitari utilizzando la tecnologia blockchain, attraverso l'utilizzo di Python e Solidity.
-- [**Progetto 4 Biblioteca Nazionale**](https://github.com/Giansimone-Coccia/Biblioteca_Nazionale.git): Biblioteca Nazionale è un'applicazione Android sviluppata in Kotlin per offrire agli amanti dei libri un'esperienza unica di gestione della propria biblioteca personale a livello nazionale.
-- [**Progetto 5 Biblioteca Nazionale Flutter**](https://github.com/Giansimone-Coccia/Biblioteca_Nazionale_Flutter.git): Biblioteca Nazionale è un'applicazione sviluppata utilizzando il framework Flutter per offrire agli amanti dei libri un'esperienza unica di gestione della propria biblioteca personale a livello nazionale.
-- [**Progetto 6 Project Coupon**](https://github.com/Giansimone-Coccia/Project_Coupon.git): Applicazione web sviluppata attraverso il framework Laravel per la pubblicazione di coupon.
-- [**Progetto 7 Autonomous Car**](https://github.com/Giansimone-Coccia/Autonomous-Car.git): Questo progetto implementa il controllo di un'auto autonoma basato sui parametri di velocità e curvatura di riferimento per una scheda Nucleo STM32-F401RE.
-- [**Progetto 8 Gestore Studio Legale**](https://github.com/Giansimone-Coccia/GestoreStudioLegale.git): Realizzazione di un software gestionale in Python per uno studio legale.
-- [**Progetto 9 OpenWeather**](https://github.com/Giansimone-Coccia/Progetto-OOP.git): Applicativo RESTful Web Service in Java che implementa un servizio meteo attraverso chiamate API OpenWeather.
+## 🌟 Top projects
+- [**Project 1 Sviluppo Back End**](https://github.com/Giansimone-Coccia/Progetto-PA.git): The project involves the development of a backend system for managing inferences on images, videos, and zip files, using pre-trained Deep Learning models for color analysis (armocromia), using tools such as Typescript, Node.js, and Docker.
+- [**Project 2 Armocromia**](https://github.com/Giansimone-Coccia/CV-DL-Armocromia.git): Development of a Deep Neural Networks for the armour analysis.
+- [**Project 3 CareChain**](https://github.com/Giansimone-Coccia/SoftwareSecurity-Blockchain.git): CareChain is a software that facilitates the management and sharing of data between patients, doctors, and healthcare providers using blockchain technology, through the use of Python and Solidity.
+- [**Project 4 movieBot**](https://github.com/Giansimone-Coccia/movieBot.git): MovieBot is an advanced chatbot developed with Python and the Rasa framework, designed to provide an interactive and personalized experience for movie enthusiasts.
+- [**Project 5 BERT_LLM**](https://github.com/Giansimone-Coccia/BERT_Text_Classification.git): Machine learning model capable of classifying Sephora product reviews as either recommended (1) or not recommended (0) based on the review content.
+- [**Project 6 Biblioteca Nazionale**](https://github.com/Giansimone-Coccia/Biblioteca_Nazionale.git): Biblioteca Nazionale is an Android application developed in Kotlin to offer book lovers a unique experience in managing their personal library on a national level.
+- [**Project 7 Biblioteca Nazionale Flutter**](https://github.com/Giansimone-Coccia/Biblioteca_Nazionale_Flutter.git): Biblioteca Nazionale is a mobile application developed with Flutter to offer book lovers a unique experience in managing their personal library on a national level.
+- [**Project 8 Project Coupon**](https://github.com/Giansimone-Coccia/Project_Coupon.git): Web application developed using the Laravel framework for the publication of coupons.
+- [**Project 9 Autonomous Car**](https://github.com/Giansimone-Coccia/Autonomous-Car.git): This project implements the control of an autonomous car based on reference speed and curvature parameters for an STM32-F401RE Nucleo board.
+- [**Project 10 Gestore Studio Legale**](https://github.com/Giansimone-Coccia/GestoreStudioLegale.git): Development of a management software in Python for a law firm.
+- [**Project 11 OpenWeather**](https://github.com/Giansimone-Coccia/Progetto-OOP.git): RESTful Web Service application in Java that implements a weather service through OpenWeather API calls
 
-## 📫 Contatti
+## 📫 Contacts
 - LinkedIn: [giansimone-coccia](https://www.linkedin.com/in/giansimone-coccia-9a4342247?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - Email: [giansimone.coccia01@gmail.com](mailto:giansimone.coccia01@gmail.com)
