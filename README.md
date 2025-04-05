@@ -6,6 +6,8 @@ Welcome to my GitHub profile! 👨‍💻👩‍💻
 - 🎓 Graduated in Computer Engineering and Automation (L8).
 - 📚 I am currently in the final year of a Master's degree course in Computer and Automation Engineering at the Università Politecnica delle Marche
 
+I'm a sociable and tech-enthusiastic individual with a passion for innovation. I love tackling new challenges, solving problems, and continuously learning. I believe that every project is an opportunity to grow and push my boundaries. Whether it’s a complex algorithm, a creative coding solution, or exploring new technologies, I’m always eager to dive in and contribute. Let’s connect and collaborate on exciting tech projects!
+
 ## 🚀 Skills
 
 - **Programming language**:  
@@ -41,17 +43,25 @@ Welcome to my GitHub profile! 👨‍💻👩‍💻
 
 
 ## 🌟 Top projects
-- [**Project 1 Sviluppo Back End**](https://github.com/Giansimone-Coccia/Progetto-PA.git): The project involves the development of a backend system for managing inferences on images, videos, and zip files, using pre-trained Deep Learning models for color analysis (armocromia), using tools such as Typescript, Node.js, and Docker.
-- [**Project 2 Armocromia**](https://github.com/Giansimone-Coccia/CV-DL-Armocromia.git): Development of a Deep Neural Networks for the armour analysis.
-- [**Project 3 CareChain**](https://github.com/Giansimone-Coccia/SoftwareSecurity-Blockchain.git): CareChain is a software that facilitates the management and sharing of data between patients, doctors, and healthcare providers using blockchain technology, through the use of Python and Solidity.
-- [**Project 4 movieBot**](https://github.com/Giansimone-Coccia/movieBot.git): MovieBot is an advanced chatbot developed with Python and the Rasa framework, designed to provide an interactive and personalized experience for movie enthusiasts.
-- [**Project 5 BERT_LLM**](https://github.com/Giansimone-Coccia/BERT_Text_Classification.git): Machine learning model capable of classifying Sephora product reviews as either recommended (1) or not recommended (0) based on the review content.
-- [**Project 6 Biblioteca Nazionale**](https://github.com/Giansimone-Coccia/Biblioteca_Nazionale.git): Biblioteca Nazionale is an Android application developed in Kotlin to offer book lovers a unique experience in managing their personal library on a national level.
-- [**Project 7 Biblioteca Nazionale Flutter**](https://github.com/Giansimone-Coccia/Biblioteca_Nazionale_Flutter.git): Biblioteca Nazionale is a mobile application developed with Flutter to offer book lovers a unique experience in managing their personal library on a national level.
-- [**Project 8 Project Coupon**](https://github.com/Giansimone-Coccia/Project_Coupon.git): Web application developed using the Laravel framework for the publication of coupons.
-- [**Project 9 Autonomous Car**](https://github.com/Giansimone-Coccia/Autonomous-Car.git): This project implements the control of an autonomous car based on reference speed and curvature parameters for an STM32-F401RE Nucleo board.
-- [**Project 10 Gestore Studio Legale**](https://github.com/Giansimone-Coccia/GestoreStudioLegale.git): Development of a management software in Python for a law firm.
-- [**Project 11 OpenWeather**](https://github.com/Giansimone-Coccia/Progetto-OOP.git): RESTful Web Service application in Java that implements a weather service through OpenWeather API calls
+
+- 📊 [**Project 1 Sviluppo Back End**](https://github.com/Giansimone-Coccia/Progetto-PA.git): The project involves the development of a backend system for managing inferences on images, videos, and zip files, using pre-trained Deep Learning models for color analysis (armocromia), using tools such as Typescript, Node.js, and Docker.
+- 🎨 [**Project 2 Armocromia**](https://github.com/Giansimone-Coccia/CV-DL-Armocromia.git): Development of a Deep Neural Networks for the armour analysis.
+- 🔗 [**Project 3 CareChain**](https://github.com/Giansimone-Coccia/SoftwareSecurity-Blockchain.git): CareChain is a software that facilitates the management and sharing of data between patients, doctors, and healthcare providers using blockchain technology, through the use of Python and Solidity.
+- 🤖 [**Project 4 movieBot**](https://github.com/Giansimone-Coccia/movieBot.git): MovieBot is an advanced chatbot developed with Python and the Rasa framework, designed to provide an interactive and personalized experience for movie enthusiasts.
+- 🛍️ [**Project 5 BERT_LLM**](https://github.com/Giansimone-Coccia/BERT_Text_Classification.git): Machine learning model capable of classifying Sephora product reviews as either recommended (1) or not recommended (0) based on the review content.
+- 📚 [**Project 6 Biblioteca Nazionale**](https://github.com/Giansimone-Coccia/Biblioteca_Nazionale.git): Biblioteca Nazionale is an Android application developed in Kotlin to offer book lovers a unique experience in managing their personal library on a national level.
+- 📱 [**Project 7 Biblioteca Nazionale Flutter**](https://github.com/Giansimone-Coccia/Biblioteca_Nazionale_Flutter.git): Biblioteca Nazionale is a mobile application developed with Flutter to offer book lovers a unique experience in managing their personal library on a national level.
+- 💳 [**Project 8 Project Coupon**](https://github.com/Giansimone-Coccia/Project_Coupon.git): Web application developed using the Laravel framework for the publication of coupons.
+- 🚗 [**Project 9 Autonomous Car**](https://github.com/Giansimone-Coccia/Autonomous-Car.git): This project implements the control of an autonomous car based on reference speed and curvature parameters for an STM32-F401RE Nucleo board.
+- ⚖️ [**Project 10 Gestore Studio Legale**](https://github.com/Giansimone-Coccia/GestoreStudioLegale.git): Development of a management software in Python for a law firm.
+- 🌦️ [**Project 11 OpenWeather**](https://github.com/Giansimone-Coccia/Progetto-OOP.git): RESTful Web Service application in Java that implements a weather service through OpenWeather API calls.
+
+## 📊 GitHub Stats
+
+![Giansimone's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Giansimone-Coccia&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
+
+### 🏆 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Giansimone-Coccia&layout=compact&theme=radical)
 
 ## 📫 Contacts
 - LinkedIn: [giansimone-coccia](https://www.linkedin.com/in/giansimone-coccia-9a4342247?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
