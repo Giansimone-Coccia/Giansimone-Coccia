@@ -3,10 +3,14 @@
 Welcome to my GitHub profile! 👨‍💻👩‍💻
 
 ## 👨‍💻 About me
-- 🎓 Graduated in Computer Engineering and Automation (L8).
-- 📚 I am currently in the final year of a Master's degree course in Computer and Automation Engineering at the Università Politecnica delle Marche
+- 🎓 Graduated in Computer and Automation Engineering (LM-32)  
+- 🔍 **Data Scientist**
 
-I'm a sociable and tech-enthusiastic individual with a passion for innovation. I love tackling new challenges, solving problems, and continuously learning. I believe that every project is an opportunity to grow and push my boundaries. Whether it’s a complex algorithm, a creative coding solution, or exploring new technologies, I’m always eager to dive in and contribute. Let’s connect and collaborate on exciting tech projects!
+I'm a sociable and tech-enthusiastic individual with a strong passion for innovation and data-driven solutions.  
+In my current role, I work on **advanced Data Science projects**, leveraging **state-of-the-art machine learning techniques, modern data platforms, and scalable architectures** to extract insights and support strategic decisions. I enjoy transforming complex problems into practical, high-impact solutions that bring real value to business processes.
+
+I love tackling new challenges, solving problems, and continuously learning. Every project is an opportunity to grow, experiment, and push my boundaries. Whether it’s designing intelligent systems, optimizing ML workflows, or exploring emerging technologies, I’m always eager to dive in and collaborate on meaningful tech initiatives.
+
 
 ## 🚀 Skills
 
